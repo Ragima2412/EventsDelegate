@@ -1,0 +1,13 @@
+C:\Users\User\DEV\EvetsPingPong\bin\Debug\netcoreapp3.1\EvetsPingPong.exe
+C:\Users\User\DEV\EvetsPingPong\bin\Debug\netcoreapp3.1\EvetsPingPong.deps.json
+C:\Users\User\DEV\EvetsPingPong\bin\Debug\netcoreapp3.1\EvetsPingPong.runtimeconfig.json
+C:\Users\User\DEV\EvetsPingPong\bin\Debug\netcoreapp3.1\EvetsPingPong.runtimeconfig.dev.json
+C:\Users\User\DEV\EvetsPingPong\bin\Debug\netcoreapp3.1\EvetsPingPong.dll
+C:\Users\User\DEV\EvetsPingPong\bin\Debug\netcoreapp3.1\EvetsPingPong.pdb
+C:\Users\User\DEV\EvetsPingPong\obj\Debug\netcoreapp3.1\EvetsPingPong.csprojAssemblyReference.cache
+C:\Users\User\DEV\EvetsPingPong\obj\Debug\netcoreapp3.1\EvetsPingPong.AssemblyInfoInputs.cache
+C:\Users\User\DEV\EvetsPingPong\obj\Debug\netcoreapp3.1\EvetsPingPong.AssemblyInfo.cs
+C:\Users\User\DEV\EvetsPingPong\obj\Debug\netcoreapp3.1\EvetsPingPong.csproj.CoreCompileInputs.cache
+C:\Users\User\DEV\EvetsPingPong\obj\Debug\netcoreapp3.1\EvetsPingPong.dll
+C:\Users\User\DEV\EvetsPingPong\obj\Debug\netcoreapp3.1\EvetsPingPong.pdb
+C:\Users\User\DEV\EvetsPingPong\obj\Debug\netcoreapp3.1\EvetsPingPong.genruntimeconfig.cache
