@@ -1,0 +1,13 @@
+C:\Users\User\DEV\Events\Even3Version\obj\Debug\netcoreapp3.1\Even3Version.csprojAssemblyReference.cache
+C:\Users\User\DEV\Events\Even3Version\obj\Debug\netcoreapp3.1\Even3Version.AssemblyInfoInputs.cache
+C:\Users\User\DEV\Events\Even3Version\obj\Debug\netcoreapp3.1\Even3Version.AssemblyInfo.cs
+C:\Users\User\DEV\Events\Even3Version\obj\Debug\netcoreapp3.1\Even3Version.csproj.CoreCompileInputs.cache
+C:\Users\User\DEV\Events\Even3Version\bin\Debug\netcoreapp3.1\Even3Version.exe
+C:\Users\User\DEV\Events\Even3Version\bin\Debug\netcoreapp3.1\Even3Version.deps.json
+C:\Users\User\DEV\Events\Even3Version\bin\Debug\netcoreapp3.1\Even3Version.runtimeconfig.json
+C:\Users\User\DEV\Events\Even3Version\bin\Debug\netcoreapp3.1\Even3Version.runtimeconfig.dev.json
+C:\Users\User\DEV\Events\Even3Version\bin\Debug\netcoreapp3.1\Even3Version.dll
+C:\Users\User\DEV\Events\Even3Version\bin\Debug\netcoreapp3.1\Even3Version.pdb
+C:\Users\User\DEV\Events\Even3Version\obj\Debug\netcoreapp3.1\Even3Version.dll
+C:\Users\User\DEV\Events\Even3Version\obj\Debug\netcoreapp3.1\Even3Version.pdb
+C:\Users\User\DEV\Events\Even3Version\obj\Debug\netcoreapp3.1\Even3Version.genruntimeconfig.cache
